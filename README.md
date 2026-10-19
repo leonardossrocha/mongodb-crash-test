@@ -62,5 +62,5 @@ db.produtos_massivos.aggregate([
 *Note como o resultado é devolvido em frações de segundo, sem tráfego inútil de rede!*
 
 ---
-**Autor:** Professor Leonardo Rocha 
+**Autor:** [Professor Leonardo Rocha](www.linkedin.com/in/leonardossrocha) 
 **Disciplina:** Banco de Dados NoSQL / Engenharia de Software
